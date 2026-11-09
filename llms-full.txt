@@ -1,0 +1,128 @@
+# AI Voice Agents for Electricians
+
+## https://aivoiceagentsforelectricians.co.uk/
+
+AI voice agents · Emergency and out-of-hours electrical work
+ AI voice agents for electricians, built for the 2am call-out 
+ A power cut at 2am and an EICR quote are not the same call. It asks the right questions, alerts you for genuine emergencies and books the rest for the morning.
+ Set my call-out rules Book a call 
+ 3 ways every call is sorted 
+ £497 from, for setup 
+ £97 from, each month 
+ Made for
+ Emergency and out-of-hours call-outs
+ Sorts calls into
+ Wake me, tell me in the morning, not for us
+ You set
+ What counts as urgent
+ Danger line
+ Callers told to leave and ring 999
+ Call
+ 0333 038 9960
+ Tell Andy about your call-outs
+ Andy replies within one working day.
+ Name 
+ Phone 
+ Email 
+ What do you need? An AI voice receptionist An AI website chatbot Both Not sure yet 
+ Website 
+ I agree to be contacted about my enquiry. Privacy policy 
+ Send my enquiry 
+ Built by Andy Norman
+ 30+ years in field service
+ ICO registered ZC133436
+ Certified Retell AI Partner
+ Based in Andover, Hampshire
+ After midnight
+ Phone on or phone off, you lose either way 
+ 1 Awake for nothing
+ Out-of-hours calls wake you for jobs that could wait. Turn the phone off and you lose the call-out that pays best.
+ 2 The job that went elsewhere
+ A customer with no power rings until somebody picks up. If that is not you, the job and any follow-on rewire go elsewhere.
+ 3 You decide what wakes you
+ You decide what counts as urgent. Genuine emergencies reach you straight away. Everything else is logged for the morning, so you can sleep.
+ Three piles
+ How it sorts a call 
+ Each column is set with you before it answers anybody, and any of them can be changed afterwards.
+ Wake me now
+ Whatever you say is a genuine emergency, such as a total loss of power or a fault that cannot wait. It reaches you straight away.
+ Tell me in the morning
+ An EICR quote, an extra socket or a price for a new consumer unit. Logged with the details and ready when your day starts.
+ Not for us
+ Sales calls, jobs outside your patch and work you do not take. The caller gets a polite answer, and you stay asleep.
+ Safety comes first. A caller reporting burning smells, sparking or danger is told to leave the property and call 999, or the network operator on 105 for a power cut.
+ Cost
+ What call-out cover costs to put in place 
+ Setup starts at £497, followed by a monthly fee from £97. The rules it follows go in your written scope first, so the price and the job are agreed together.
+ Answers every call
+ AI voice receptionist
+ from £497 setup, from £97 a month 
+ Answers in your business name, day and night
+ Takes details and books or passes on
+ Call summaries sent to you
+ Set up and tuned by Andy
+ Scope it on a call AI website chatbot
+ from £297 setup, from £57 a month 
+ Answers questions on your website
+ Captures enquiries when you are busy
+ Trained on your own services and prices
+ Ask about the chatbot 
+ Try it
+ Ring the demo and pretend it is 2am 
+ This line is a demonstration only, with no business behind it. Try a routine question and then a made-up fault, and listen to how each is handled. In a real emergency, call 999.
+ Ring the demo line on 07782 214455 
+ Set-up
+ Your rules first, then your phone 
+ 01 Set what wakes you
+ Go through your out-of-hours work with Andy and decide what is urgent, what can wait and what you never take.
+ 02 Hear it handle a fault
+ Ring it as a worried customer would. It tells you it is an AI, asks your questions, and you say what to change.
+ 03 Hand over the night phone
+ Calls go to it at the times you choose. Emergencies come through, and the rest waits for you after breakfast.
+ Google reviews of Antek Automation
+ Reviews from Andy's clients 
+ We worked with Andy Norman from Antek Automation to integrate Retell voice agents with Shopify via n8n. He quickly resolved webhook and API issues, delivered a stable end-to-end automation, and communicated clearly throughout. His hands-on, practical approach made a real difference. Highly recommended. Akhil M. · May 2026 Andy is very responsive, informed, and easy to work with! Adapts quickly and always willing to explain things further or revisit an idea. Excited to continue building out projects with his expertise! Tanna C. · Aug 2026 After numerous meetings with other prospect companies, i was delighted to have found Antek. Speaking to Andy has been a pleasure, he explains things i don't understand in a way where i grasp how it works and what needs to be done to progess forward. He has also provided support, knowledge and hard work to help get my business up and running. 100% recommend J. H. · Jul 2026 
+ Who builds it
+ From field service to call-out rules 
+ Andy Norman spent more than 30 years in field service and managed print, finishing as a service manager, a job built on telling a fault that matters from one that will keep.
+ These days he runs Antek Automation in Andover as a Certified Retell AI Partner, and he configures each agent personally, down to the line it reads to anybody in danger.
+ Read about Andy 
+ Who takes this on
+ Emergency electricians
+ Sole traders taking night work
+ Small firms sharing an on-call rota
+ Electricians offering weekend cover
+ Anyone tired of the 2am false alarm
+ Call-out questions
+ What electricians want pinned down first 
+ How does it decide what is urgent?
+ By following the rules you set with Andy and asking the questions you have chosen. When the answers match what you have called urgent, it reaches you straight away. You also decide in advance which way it should lean when it is unsure.
+ What does it tell someone in danger?
+ Anyone reporting burning smells, sparking or danger is told to leave the property and call 999, or the network operator on 105 for a power cut. It gives no electrical advice and makes no attempt to diagnose the fault.
+ Can it take my out-of-hours rates?
+ Yes, if you want callers to hear them. Give Andy your call-out rates and the hours they apply, and it can state them as given. If you would sooner quote yourself, it says the price will be confirmed.
+ Do I still get the routine enquiries?
+ Yes. Routine work is logged with its details and kept for the morning, so none of it disappears because it came in at night.
+ How is this different from aiforelectricians.co.uk?
+ aiforelectricians.co.uk looks at AI and automation across a whole electrical business. This site deals with one thing only, which is emergency and out-of-hours call-outs.
+ Is it an answering service for electricians?
+ It does what an electrician answering service would, then adds the sorting by your rules. Some people would call it an AI receptionist for electricians. Whatever the name, callers are told it is an AI.
+ Sleep through the calls that can wait.
+ Set my call-out rules 0333 038 9960 
+ About this call-out service
+ AI Voice Agents for Electricians is a service from Antek Automation, the sole trader based in Andover and led by Andy Norman. It is for electricians who take emergency and out-of-hours work anywhere in the UK. The technology is explained further at Antek's AI voice agents hub .
+
+## https://aivoiceagentsforelectricians.co.uk/about-andy
+
+The person setting your rules
+ Andy Norman, setting up the night shift 
+ Field service and managed print were Andy's working life for over 30 years, first out on jobs as an engineer and later in charge as service manager.
+ Faults rarely turn up at a convenient hour, which makes emergency call-outs an obvious place for him to put a voice agent to work.
+ What he asks you first
+ He starts with what should wake you up. Everything else about the build follows from that answer, including what it says to a caller in danger.
+ Runs Antek Automation in Andover
+ Certified Retell AI Partner
+ ICO registration ZC133436
+ Beyond call-outs
+ For the broader service, including the other jobs an agent can do, see voice assistants on the Antek site .
+ Set my call-out rules

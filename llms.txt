@@ -1,0 +1,29 @@
+# AI Voice Agents for Electricians
+> Antek Automation builds AI voice agents for UK electricians who take emergency work, from £497 setup, set up by Andy Norman, sorting urgent call-outs from routine jobs.
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founder and builder: Andy Norman (30+ years in field service and managed print, Certified Retell AI Partner)
+- Address: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- Hours: Monday to Friday, 8am to 6pm
+- ICO registration: ZC133436
+- Main service page: https://www.antekautomation.com/services/ai-voice-assistants
+
+## What this site covers
+- Emergency and out-of-hours call handling for electricians, sorted into wake me now, tell me in the morning, and not for us
+- Rules on what counts as urgent are set by the electrician
+- Callers reporting burning smells, sparking or danger are told to leave the property and call 999, or the network operator on 105 for a power cut
+- Setup from £497 and from £97 a month
+
+## Key facts
+- Made for: Emergency and out-of-hours call-outs
+- Sorts calls into: Wake me, tell me in the morning, not for us
+- You set: What counts as urgent
+- Danger line: Callers told to leave and ring 999
+- Call: 0333 038 9960
+
+## Contact
+- Enquiries: https://aivoiceagentsforelectricians.co.uk/#quote
+- Phone: 0333 038 9960
